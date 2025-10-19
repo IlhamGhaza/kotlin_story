@@ -1,3 +1,40 @@
 <resources>
-    <string name="app_name">kotlin_story</string>
+    <string name="app_name">Dicoding Story</string>
+    <!-- Auth -->
+    <string name="login_title">Masuk</string>
+    <string name="register_title">Daftar</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Kata sandi</string>
+    <string name="hint_name">Nama</string>
+    <string name="action_sign_in">Masuk</string>
+    <string name="action_sign_up">Daftar</string>
+    <string name="cta_to_register">Belum punya akun? Daftar</string>
+    <string name="cta_to_login">Sudah punya akun? Masuk</string>
+    <string name="error_email_invalid">Format email tidak valid</string>
+    <string name="error_password_short">Kata sandi minimal 8 karakter</string>
+    <!-- Home/List -->
+    <string name="title_story">Story</string>
+    <string name="menu_logout">Keluar</string>
+    <string name="menu_settings">Pengaturan</string>
+    <string name="msg_loading">Memuat…</string>
+    <string name="msg_empty">Belum ada cerita</string>
+    <string name="msg_error_generic">Terjadi kesalahan</string>
+    <string name="action_try_again">Coba lagi</string>
+    <!-- Add Story -->
+    <string name="title_add_story">Tambah Cerita</string>
+    <string name="btn_camera">Kamera</string>
+    <string name="btn_gallery">Galeri</string>
+    <string name="hint_description">Deskripsi</string>
+    <string name="action_upload">Unggah</string>
+    <!-- Detail -->
+    <string name="detail">Detail</string>
+    <!-- Settings -->
+    <string name="title_settings">Pengaturan</string>
+    <string name="label_theme">Tema</string>
+    <string name="label_language">Bahasa</string>
+    <string name="theme_system">Sistem</string>
+    <string name="theme_light">Terang</string>
+    <string name="theme_dark">Gelap</string>
+    <string name="lang_id">Indonesia</string>
+    <string name="lang_en">Inggris</string>
 </resources>
